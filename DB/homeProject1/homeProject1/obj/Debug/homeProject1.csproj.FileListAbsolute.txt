@@ -1,0 +1,13 @@
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\bin\Debug\homeProject1.exe.config
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\bin\Debug\homeProject1.exe
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\bin\Debug\homeProject1.pdb
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\obj\Debug\homeProject1.csproj.AssemblyReference.cache
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\obj\Debug\homeProject1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\obj\Debug\homeProject1.Form1.resources
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\obj\Debug\homeProject1.Form2.resources
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\obj\Debug\homeProject1.Form3.resources
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\obj\Debug\homeProject1.Properties.Resources.resources
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\obj\Debug\homeProject1.csproj.GenerateResource.cache
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\obj\Debug\homeProject1.csproj.CoreCompileInputs.cache
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\obj\Debug\homeProject1.exe
+C:\Users\sami\OneDrive\Desktop\DB\homeProject1\homeProject1\obj\Debug\homeProject1.pdb
